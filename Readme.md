@@ -124,8 +124,14 @@ curl -X POST http://localhost:3031/chat \
 * [ ] Soporte para mas comandos, para hacerlo mas amigable
 
 ---
+## 📸 Demo
+
+![Edith Bot Demo](assets/img/example.png)
+
+---
 
 ## 👨‍💻 
 
 Proyecto personal para integrar mi bot con IA local (asistente personal)
+
 Telegram → Edith-telegram-bot → Edith-core → (tools o IA) → respuesta
